@@ -32,6 +32,7 @@ textarea {
   color: #f5f5f5;
   resize: vertical;
   min-height: 100px;
+  font-size: 18px;
 }
 
 textarea:focus {
